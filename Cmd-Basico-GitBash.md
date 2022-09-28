@@ -7,3 +7,4 @@
 - **git commit -m “tituloDoCommit":** envia o que está no Stage para o HEAD
 - **git remote add origin urlDoRepositorio:** adiciona e indica a URL do repositório remoto em que os arquivos serão mantidos
 - **git push origin main:** envia os arquivos para o repositório remoto que você especificou através da URL do comando acima
+- **git clone urlDoRepositorio:** faz uma copia do repositorio remoto para o repositorio local.
