@@ -1,3 +1,3 @@
-## :small_blue_diamond: Bootcamp Québec Java Digital :small_blue_diamond:
+## :small_blue_diamond: Curso Git-Github :small_blue_diamond:
 
-Repositório contendo todos os projetos e anotações referente ao bootcamp **Québec Java Digital** da **DIO**
+Repositório contendo todos os projetos e anotações referente ao curso **Git/Github** da **DIO**
